@@ -11,6 +11,7 @@ a human
 - better editing of strings → better render settings menu
 - be able to scroll disassembly that's cut off
 - make it usable in 80x25, the smaller the better
+- write le manuel
 
 [x86-inf](https://github.com/Diamboy211/x86-inf)
 - visualize data in memory

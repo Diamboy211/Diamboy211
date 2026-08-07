@@ -8,7 +8,7 @@ a human
 	- example library of instruments
 - more register operations
 - editor settings menu → change display mode of each register (e.g. r0 = 3 or r0 = C5)
-- better editing of strings → better render settings menu
+- better render settings menu
 - be able to scroll disassembly that's cut off
 - make it usable in 80x25, the smaller the better
 - write le manuel

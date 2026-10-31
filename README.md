@@ -23,6 +23,10 @@ a human
 - better kernel docs
 - release human-torture as an open challenge
 
+[anim](https://github.com/Diamboy211/anim)
+- fix weird bugs
+- see new top 2 wall of shame project
+
 rewrite the lost bigfixed library?
 
 rewrite the lost minposterizer?
@@ -39,7 +43,7 @@ make a game that isn't tiny?
 
 make a drawing program?
 
-make an animation program?
+make a gui animation program?
 
 make a cytoid charting program on the web that works on mobile?
 
